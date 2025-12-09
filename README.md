@@ -190,6 +190,6 @@ BI Tools / Reports / KPIs
 <p>MIT License</p>
 
 <p align="center">
-💡 Designed & Developed by <strong>Vishnu Vardhan</strong>  
-<br/>Data Engineering Enthusiast | India 🇮🇳
+💡 Designed & Developed by <strong>Nirja Gupta</strong>  
+<br/>Data Engineering Enthusiast�🇳
 </p>
