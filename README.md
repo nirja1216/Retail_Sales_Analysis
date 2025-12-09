@@ -191,5 +191,5 @@ BI Tools / Reports / KPIs
 
 <p align="center">
 💡 Designed & Developed by <strong>Nirja Gupta</strong>  
-<br/>Data Engineering Enthusiast�🇳
+<br/>Data Engineering Enthusiast
 </p>
